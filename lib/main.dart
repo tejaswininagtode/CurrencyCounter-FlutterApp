@@ -25,7 +25,7 @@ class _MyHomePageState extends State<MyHomePage> {
         body: DashboardPage(
             currencyVal: 0.0,
             convertedCurrency: 0.0,
-            currencyone: 'USD',
+            currencyone: 'INR',
             currencytwo: 'RUB',
             isWhite: false));
   }
