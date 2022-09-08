@@ -1,4 +1,4 @@
-# CurrencyCounter-FlutterApp
+# Currency Counter Flutter App
 
 📌 In this task we create #Currency_Converter Flutter app
 
@@ -23,6 +23,6 @@ As well as this app allow users to convert another currency into Indian Rupee.
 
 ![App Screenshot](https://github.com/tejaswininagtode/CurrencyCounter-FlutterApp/blob/main/Images/Web_UI.jpg)
 
-![App Screenshot](https://github.com/tejaswininagtode/CurrencyCounter-FlutterApp/blob/main/Images/Web_UI2.jpg)
+##
 
 ![App Screenshot](https://github.com/tejaswininagtode/CurrencyCounter-FlutterApp/blob/main/Images/Web_UI3.png)
